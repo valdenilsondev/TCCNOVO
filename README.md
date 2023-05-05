@@ -1,6 +1,6 @@
 # TITULO DO SEU PROJETO
 
-escreva uma breve esplicação sobre o se projeto
+escreva uma breve esplicação sobre o se projeto <br>
 adicione tambem liks do seu projeto, como link do seu GDD ou da pagina de publicação (caso tenha)
 
 ## SNAPSHOTS DO SEU PROJETO
