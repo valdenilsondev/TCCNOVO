@@ -1,12 +1,11 @@
-introdução a customização do readme:
-
 # TITULO DO SEU PROJETO
 
-breve esplicação sobre o se projeto
+escreva uma breve esplicação sobre o se projeto
+adicione tambem liks do seu projeto, como link do seu GDD ou da pagina de publicação (caso tenha)
 
 ## SNAPSHOTS DO SEU PROJETO
 
-algumas imagens
+algumas imagens do desenvolvimentoprojeto, cuidado para não poluir e ficar feio
 
 ## STACK DO SEU PROJETO
 
